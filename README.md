@@ -41,4 +41,4 @@ Inspiration
 ![image](https://user-images.githubusercontent.com/122894971/218130123-251cd91f-cb77-41db-9210-f666377fd409.jpeg)
 ![image](https://user-images.githubusercontent.com/122894971/218130597-2b08446b-6160-4ff9-a2e2-39ffe2fea920.jpeg)
 
-I printed snowflakes of multiple sizes. 5.5cm, 8cm and 9 cm. The ones that came out the best were the small ones. After a few prints witht different parameters. first layer 3mm + 1.5mm, first layer 2mm + 1.5mm, first layer 1mm + 1.5mm. The big ones were a fail. I decided to shrink my desing and only do small snowflakes.
+I printed snowflakes of multiple sizes. 5.5cm, 8cm and 9 cm. The ones that came out the best were the small ones. After a few prints witht different parameters. first layer 3mm + 1.5mm, first layer 2mm + 1.5mm, first layer 1mm + 1.5mm. The big ones were a fail but good news, the clipsing stuff works fine! I decided to shrink my desing and only do small snowflakes. Did a test to see if it still clips when resized and if it does I will launch mass production. 
