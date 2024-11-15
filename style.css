@@ -16,6 +16,7 @@ a {
 	min-height: 100vh;
 	width: 100%;
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
 }
@@ -58,7 +59,7 @@ p {
 	letter-spacing: 0.1rem;
 	margin-top: 30px;
 	transition: 0.3s ease;
-	transition-property: background-color, color;
+	transition: background-color 0.3s ease, color 0.3s ease;
 }
 .cta:hover {
 	color: white;
@@ -99,7 +100,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(187, 239, 248);
+	background-color: #292c3b;
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
