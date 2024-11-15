@@ -21,6 +21,7 @@ a {
 	justify-content: center;
 }
 img {
+	max-height: 90%
 	height: auto;
 	width: 80%;
 	object-fit: cover;
