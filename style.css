@@ -19,7 +19,14 @@ a {
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+	gap: 10px;
 }
+.container img {
+    width: 100%; /* Make images fill their container */
+    max-width: 300px; /* Optional: set a max width */
+    height: auto; /* Maintain aspect ratio */
+}
+
 img {
 	height: auto;
 	width: 100%;
