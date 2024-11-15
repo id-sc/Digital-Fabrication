@@ -21,8 +21,8 @@ a {
 	justify-content: center;
 }
 img {
-	height: 100%;
-	width: 100%;
+	height: auto;
+	width: 80%;
 	object-fit: cover;
 }
 p {
